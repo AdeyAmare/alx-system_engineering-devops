@@ -1,1 +1,1 @@
-This repository contains the the shell basics project
+This repository contains the directories for the shell basics and shell permissions projects
